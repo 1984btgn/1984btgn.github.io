@@ -1,10 +1,11 @@
 Site in progress.
 
----
+* * *
 
 **To-do:**
 
--   [ ] Fix color scheme
+-   [x] Fix color scheme <!-- Color Palette by Paletton.com
+    Palette URL: http://paletton.com/#uid=13k0u0khkHr0C+b97RUohzP-yti -->
 -   [ ] Fine-tune email button
     -   [ ] Style
     -   [ ] Code
