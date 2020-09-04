@@ -6,20 +6,22 @@ Site in progress.
 
 -   [x] Fix color scheme <!-- Color Palette by Paletton.com
     Palette URL: http://paletton.com/#uid=13k0u0khkHr0C+b97RUohzP-yti -->
-  - [ ] Github documentation
+  - [x] Github documentation
       - [x] Custom 404
 -   [x] Fine-tune email button
     -   [x] Style
     -   [x] Code
-    -   [ ] Custom bounce page
+    -   [x] Custom bounce page
+-   [ ] Resume
 -   [ ] Write copy
     -   [ ] Portfolio
+    -   [ ] SEO
+-   [ ] Custom domain name
 -   [ ] Testing
     -   [ ] Security
     -   [x] Accessibility
     -   [ ] Standards
     -   [ ] Users
--   [ ] Resume
--   [ ] Blog
 -   [ ] Clean up repository
     -   [ ] Push to master branch
+-   [ ] Blog
