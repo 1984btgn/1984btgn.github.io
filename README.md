@@ -7,16 +7,16 @@ Site in progress.
 -   [x] Fix color scheme <!-- Color Palette by Paletton.com
     Palette URL: http://paletton.com/#uid=13k0u0khkHr0C+b97RUohzP-yti -->
   - [ ] Github documentation
--   [ ] Fine-tune email button
-    -   [ ] Style
-    -   [ ] Code
+      - [ ] Custom 404
+-   [x] Fine-tune email button
+    -   [x] Style
+    -   [x] Code
     -   [ ] Custom bounce page
--   [ ] Custom 404
 -   [ ] Write copy
     -   [ ] Portfolio
 -   [ ] Testing
     -   [ ] Security
-    -   [ ] Accessibility
+    -   [x] Accessibility
     -   [ ] Standards
     -   [ ] Users
 -   [ ] Resume

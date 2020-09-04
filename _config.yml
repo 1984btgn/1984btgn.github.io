@@ -31,7 +31,7 @@ description:    "Profressional freelance editor and story advocate"
 
 colors:
   black:        '#111111'
-  white:        '#f8f8f8'
+  white:        '#fefefe'
   peach:        "#ffede1"
   indigo:       "#1f2041"
   blue:         "#52bbc7"
@@ -39,7 +39,7 @@ colors:
   orange:       "#ee6352"
 
   turquoise:    '#0fbfcf'
-  purple:       '#c869bf'  
+  purple:       '#c869bf'
 
   blue1:        '#F8FCFC'
   blue2:        '#A3DDE3'
