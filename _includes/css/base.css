@@ -55,6 +55,7 @@
 		font: 14px/21px;
 		font-family: 'Lato', sans-serif;
 		letter-spacing: .01em;
+		line-height:125%;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
