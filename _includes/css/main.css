@@ -116,6 +116,7 @@ hr {
 
 nav {
   font-size:15px;
+  font-family: 'Playfair Display', serif;
   width:100%;
   position:fixed;
   z-index:100;
