@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/v4-shims.css">
 
-  <!-- Favicons -->
+  <!-- Favicons (icon via Font Awesome: https://fontawesome.com/license/free) -->
   <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
@@ -70,25 +70,20 @@
     </div>
   </div>
 
-  {% include analytics.html %}
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>
-<!-- <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-  formbutton("create", {action: "https://formspree.io/moqkogpr"})
-</script> -->
-
+ 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
-  window.formbutton = window.formbutton || function() {
-    (formbutton.q = formbutton.q || []).push(arguments)
-  };
-  formbutton("create", {
-    action: "https://formspree.io/YOUR_FORM_ID",
-    buttonImg: "<i class='fas fa-envelope' style='font-size:24px'/>" // <-- new button icon
-  });
+	window.formbutton = window.formbutton || function() {
+	(formbutton.q = formbutton.q || []).push(arguments)
+	};
+	formbutton("create", {
+	buttonImg: "<i class='fas fa-envelope' style='font-size:24px'/>",
+	action: "https://formspree.io/moqkogpr"
+	});
 </script>
+
 
 </html>
