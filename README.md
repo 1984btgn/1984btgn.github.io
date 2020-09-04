@@ -1,3 +1,21 @@
+Site in progress.
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+---
+
+**To-do:**
+
+-   [ ] Fix color scheme
+-   [ ] Fine-tune email button
+    -   [ ] Style
+    -   [ ] Code
+-   [ ] Write copy
+    -   [ ] Portfolio
+-   [ ] Testing
+    -   [ ] Security
+    -   [ ] Accessibility
+    -   [ ] Standards
+    -   [ ] Users
+-   [ ] Resume
+-   [ ] Blog
+-   [ ] Clean up repository
+    -   [ ] Push to master branch
