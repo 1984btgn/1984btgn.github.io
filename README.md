@@ -16,11 +16,11 @@ Site in progress.
 -   [ ] Write copy
     -   [ ] Portfolio
     -   [ ] SEO
--   [ ] Custom domain name
+-   [ ] Custom domain name    // next week
 -   [ ] Testing
-    -   [ ] Security
+    -   [x] Security
     -   [x] Accessibility
-    -   [ ] Standards
+    -   [x] Standards
     -   [ ] Users
 -   [ ] Clean up repository
     -   [ ] Push to master branch
