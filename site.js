@@ -75,9 +75,9 @@ $(document).ready(function (){
     $('nav li a').navScroller();
 
     //section divider icon click gently scrolls to reveal the section
-	$(".sectiondivider").on('click', function(event) {
-    	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
-	});
+//	$(".sectiondivider").on('click', function(event) {
+//    	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
+//	});
 
     //links going to other sections nicely scroll
 	$(".container a").each(function(){
@@ -92,4 +92,3 @@ $(document).ready(function (){
 	});
 
 });
-
