@@ -13,9 +13,12 @@ Site in progress.
     -   [x] Code
     -   [x] Custom bounce page
 -   [ ] Resume
+      - [ ] Keywords from listings
 -   [ ] Write copy
     -   [ ] Portfolio
     -   [ ] SEO
+  - [ ] Bootstrap elements
+      - [ ] Grid
 -   [ ] Custom domain name    // next week
 -   [ ] Testing
     -   [x] Security
