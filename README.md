@@ -17,8 +17,8 @@ Site in progress.
 -   [ ] Write copy
     -   [ ] Portfolio
     -   [ ] SEO
-  - [ ] Bootstrap elements
-      - [ ] Grid
+  - [x] Bootstrap elements
+      - [x] Grid
 -   [ ] Custom domain name    // next week
 -   [ ] Testing
     -   [x] Security
